@@ -11,7 +11,6 @@
 #  puts "   |   |   "
 #  puts "-----------"
 #  puts "   |   |   "
- #```
 
 def display_board
   puts "   |   |   "
@@ -19,4 +18,4 @@ def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-end 
+end
